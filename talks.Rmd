@@ -1,0 +1,27 @@
+---
+title: "Talks"
+fontsize: 12pt
+---
+<font size = "4">
+
+Oral Presenter, [Columbia Biostatistics Annual Research Symposium](https://www.publichealth.columbia.edu/academics/departments/biostatistics/news-events/columbia-biostatistics-annual-research-symposium-cbars), September 2023
+
+Paper Presenter, [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2023/), August 2023
+
+Poster Presenter, [Tom Ten Have Symposium](https://www.eventbrite.com/e/the-2023-thomas-r-ten-have-symposium-on-statistics-in-mental-health-registration-547800434847), June 2023
+
+Poster Presenter, American Causal Inference Conference, May 2023
+
+Oral Presenter, [Eastern North American Region (ENAR)](https://www.enar.org/meetings/spring2023/), March 2023
+
+Causal Inference Learning Group and [Computing Club](http://cu-biostats-computing-club.org/index.html), Mailman School of Public Health, Febuary 2023
+
+Functional Neuroimaging & Bioinformatics Lab, McLean Hospital, December 2022
+
+Causal Inference Learning Group, Mailman School of Public Health, October 2022
+
+Paper Presenter, [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2022/), August 2022
+
+Poster Presenter, NSF Research Experience for Undergraduates Symposium, October 2018
+
+</font>

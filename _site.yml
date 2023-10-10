@@ -1,0 +1,19 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Charlotte Fowler"
+  right:
+    - text: "Publications"
+      href: publications.html
+    - text: "Talks"
+      href: talks.html
+    - text: "Teaching"
+      href: teaching.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<crf2147@cumc.columbia.edu>
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/CharlyFowler
+    - icon: fab fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/charlotte-fowler/
+output:
+  html_document

@@ -1,0 +1,32 @@
+---
+title: "Teaching"
+---
+
+<font size = "4">
+
+<br>
+
+I served as instructor for the Introduction to Biostatistics course in the summers of 2022 and 2023 for the [Biostatistics Epidemiology Summer Training](https://www.publichealth.columbia.edu/research/programs/biostatistics-epidemiology-summer-training). This summer program offers exposure and training in biostatistics, coding, and epidemiology for undergraduates from under-represented backgrounds. In this role I designed and developed the course materials and syllabus, delivered lectures, managed teaching assistants, and mentored students. The introductory course covered methods for
+describing discrete and continuous data, hypothesis testing, confidence intervals, general
+principles of study design, and regression models. 
+
+</font>
+
+<br>
+
+
+### Teaching Assistant Experience 
+
+<font size = "4">
+
+Topics in Advanced Statistical Computing (P8160), Spring 2022
+
+Probability (P8104), Lead TA, Fall 2020 and Fall 2021
+
+Latent Variable and Structural Equation Modeling (P8158), Spring 2021
+
+Columbia Summer Research Institute Biostatistics and Epidemiology (Introduction to Biostatistics; Introduction to Epidemiology), Summer 2020
+
+Introduction to Health Data Science (P8101), Spring 2020
+
+</font>
