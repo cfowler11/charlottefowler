@@ -6,7 +6,7 @@ title: "Teaching"
 
 <br>
 
-I served as instructor for the Introduction to Biostatistics course in the summers of 2022 and 2023 for the [Biostatistics Epidemiology Summer Training](https://www.publichealth.columbia.edu/research/programs/biostatistics-epidemiology-summer-training). This summer program offers exposure and training in biostatistics, coding, and epidemiology for undergraduates from under-represented backgrounds. In this role I designed and developed the course materials and syllabus, delivered lectures, managed teaching assistants, and mentored students. The introductory course covered methods for
+I served as instructor for the Introduction to Biostatistics course in the summers of 2022 and 2023 for the [Biostatistics Epidemiology Summer Training](https://www.publichealth.columbia.edu/research/programs/biostatistics-epidemiology-summer-training). This summer program offers exposure and training in biostatistics, coding, and epidemiology for undergraduates from under-represented backgrounds. In this role I designed and developed the course materials and [syllabus](docs_to_link/syllabus.pdf), delivered lectures, managed teaching assistants, and mentored students. The introductory course covered methods for
 describing discrete and continuous data, hypothesis testing, confidence intervals, general
 principles of study design, and regression models. 
 
