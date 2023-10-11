@@ -52,7 +52,7 @@ BA in Applied Mathematics and Statistics, Macalaster College, 2019
 
 <font size = "4"> 
 
-My research aims to develop statistical methods to conduct causal inference with address complex data. I am particularly interested in studying the implications of missing data, unobserved confounding, and latent variables on estimation and inference. My work is motivated by applications to mobile health studies for individuals with severe mental illness, including bipolar disorder and schizophrenia.  
+My research aims to develop statistical methods to conduct causal inference with complex data. I am particularly interested in studying the implications of missing data, unobserved confounding, and latent variables on estimation and inference. My work is motivated by applications to mobile health studies for individuals with severe mental illness, including bipolar disorder and schizophrenia.  
 
 </font>
 
