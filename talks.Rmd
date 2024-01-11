@@ -4,6 +4,9 @@ fontsize: 12pt
 ---
 <font size = "4">
 
+
+Invited Oral Presenter, [Computational and Methodological Statisitcs](https://www.cmstatistics.org/), December 2023 
+
 Invited Oral Presenter, [Columbia Biostatistics Annual Research Symposium](https://www.publichealth.columbia.edu/academics/departments/biostatistics/news-events/columbia-biostatistics-annual-research-symposium-cbars), September 2023 
 
 Paper Presenter, [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2023/), August 2023 ([slides](docs_to_link/JSM_2023_presentation.pdf))
