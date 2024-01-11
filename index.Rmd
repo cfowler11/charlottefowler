@@ -32,7 +32,7 @@ New York, NY
 
 <font size = "4">
 
-I am a doctoral candidate in Biostatistics at Columbia University Mailman School of Public Health. I am completing my  dissertation titled Causal inference and time series methods for N-of-1 mobile health studies with missing data, under [Linda Valeri](https://www.lindavaleri.com/). 
+I am a doctoral candidate in Biostatistics at Columbia University Mailman School of Public Health. I am completing my  dissertation titled Causal inference and time series methods for N-of-1 mobile health studies with missing data, under [Linda Valeri](https://www.lindavaleri.com/). Here is my [CV](docs_to_link/cfowler_cv.pdf).
 
 </font>
 

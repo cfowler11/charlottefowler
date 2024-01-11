@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -143,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -295,21 +292,25 @@ $(document).ready(function () {
 href="https://scholar.google.com/citations?hl=en&amp;user=ScAs7hoAAAAJ">here</a>.</p>
 <div id="peer-reviewed-publications" class="section level3">
 <h3>Peer Reviewed Publications</h3>
-<p>Pitts, A. J., &amp; <strong>Fowler, C. R.</strong> (2023, in press).
-Comparison of open-source software for producing directed acyclic
-graphs. <em>Journal of Causal Inference</em>.</p>
+<p>Pitts, A. J., &amp; <strong>Fowler, C. R.</strong> (2024). Comparison
+of open-source software for producing directed acyclic graphs.
+<em>Journal of Causal Inference</em>. <a
+href="https://doi.org/10.1515/jci-2023-0031">https://doi.org/10.1515/jci-2023-0031</a></p>
 <p>Rogers, R. T., Rogers, R., DeSilva, N., <strong>Fowler, C.
 R.</strong>, Marino, L. (2023). Prevalence of tobacco smoking among U.S.
 residents with primary psychosis: A systematic review of national and
-regional samples. <em>Current Psychology</em>.</p>
+regional samples. <em>Current Psychology</em>. <a
+href="https://doi.org/10.1007/s12144-023-05290-w">https://doi.org/10.1007/s12144-023-05290-w</a></p>
 <p>Mosinger, E., Thaler, K., Paz Garcia, D., <strong>Fowler, C.</strong>
 (2022). Civil Resistance in the Shadow of the Revolution: Historical
 Framing in Nicaragua’s Sudden Uprising. <em>Comparative Politics,
-54.1</em>.</p>
+54.1</em>. <a
+href="https://doi.org/10.5129/001041522X16281740895086">https://doi.org/10.5129/001041522X16281740895086</a></p>
 <p><strong>Fowler, C.</strong>, Homandberg, L., Steele, C., Bolt, M.A.,
 Tintle, N., Ulrich, R., Christians, M. (2020). Adult correlates of
 adverse childhood experiences in Ukraine. <em>Child Abuse &amp; Neglect,
-107</em>.</p>
+107</em>. <a
+href="https://doi.org/10.1016/j.chiabu.2020.104617">https://doi.org/10.1016/j.chiabu.2020.104617</a></p>
 </div>
 <div id="under-review" class="section level3">
 <h3>Under Review</h3>

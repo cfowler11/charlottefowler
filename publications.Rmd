@@ -6,15 +6,15 @@ Please find my Google Scholar profile [here](https://scholar.google.com/citation
 
 ### Peer Reviewed Publications
 
-Pitts, A. J., \& **Fowler, C. R.** (2023, in press).  Comparison of open-source software for producing directed acyclic graphs.  *Journal of Causal Inference*.
+Pitts, A. J., \& **Fowler, C. R.** (2024).  Comparison of open-source software for producing directed acyclic graphs.  *Journal of Causal Inference*. [https://doi.org/10.1515/jci-2023-0031](https://doi.org/10.1515/jci-2023-0031)
 
-Rogers, R. T., Rogers, R., DeSilva, N., **Fowler, C. R.**, Marino, L. (2023). Prevalence of tobacco smoking among U.S. residents with primary psychosis: A systematic review of national and regional samples. *Current Psychology*.
+Rogers, R. T., Rogers, R., DeSilva, N., **Fowler, C. R.**, Marino, L. (2023). Prevalence of tobacco smoking among U.S. residents with primary psychosis: A systematic review of national and regional samples. *Current Psychology*. [https://doi.org/10.1007/s12144-023-05290-w](https://doi.org/10.1007/s12144-023-05290-w) 
 
 Mosinger, E., Thaler, K., Paz Garcia, D., 
-**Fowler, C.** (2022). Civil Resistance in the Shadow of the Revolution: Historical Framing in Nicaragua’s Sudden Uprising. *Comparative Politics, 54.1*. 
+**Fowler, C.** (2022). Civil Resistance in the Shadow of the Revolution: Historical Framing in Nicaragua’s Sudden Uprising. *Comparative Politics, 54.1*. [https://doi.org/10.5129/001041522X16281740895086](https://doi.org/10.5129/001041522X16281740895086) 
 
 
-**Fowler, C.**, Homandberg, L., Steele, C., Bolt, M.A., Tintle, N., Ulrich, R., Christians, M. (2020). Adult correlates of adverse childhood experiences in Ukraine. *Child Abuse \& Neglect, 107*. 
+**Fowler, C.**, Homandberg, L., Steele, C., Bolt, M.A., Tintle, N., Ulrich, R., Christians, M. (2020). Adult correlates of adverse childhood experiences in Ukraine. *Child Abuse \& Neglect, 107*. [https://doi.org/10.1016/j.chiabu.2020.104617](https://doi.org/10.1016/j.chiabu.2020.104617) 
 
 
 ### Under Review
