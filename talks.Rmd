@@ -4,6 +4,7 @@ fontsize: 12pt
 ---
 <font size = "4">
 
+Oral Presenter, [Eastern North American Region (ENAR)](https://www.enar.org/meetings/spring2024/), March 2024 
 
 Invited Oral Presenter, [Computational and Methodological Statisitcs](https://www.cmstatistics.org/), December 2023 
 
