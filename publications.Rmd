@@ -6,7 +6,7 @@ Please find my Google Scholar profile [here](https://scholar.google.com/citation
 
 ### Peer Reviewed Publications
 
-**Fowler, C.**, Cai, X., Baker J.T., Onnela, J.P., and  Valeri, L. (2024, *in press*). Testing unit root non-stationarity in the presence of missing data in univariate time series of mobile health studies. *Journal of the Royal Statistical Society: Series C*. [https://arxiv.org/abs/2210.04998](https://arxiv.org/abs/2210.04998) 
+**Fowler, C.**, Cai, X., Baker, J. T., Onnela, J. P., \& Valeri, L. (2024). Testing unit root non-stationarity in the presence of missing data in univariate time series of mobile health studies. *Journal of the Royal Statistical Society Series C: Applied Statistics*. [https://doi.org/10.1093/jrsssc/qlae010](https://doi.org/10.1093/jrsssc/qlae010) 
 
 Pitts, A. J., \& **Fowler, C. R.** (2024).  Comparison of open-source software for producing directed acyclic graphs.  *Journal of Causal Inference*. [https://doi.org/10.1515/jci-2023-0031](https://doi.org/10.1515/jci-2023-0031)
 
@@ -22,12 +22,12 @@ Mosinger, E., Thaler, K., Paz Garcia, D.,
 
 ### Manuscripts in Preparation
 
-**Fowler, C.**, Cai, X., Baker J.T., Ongur, D., Onnela, J.P.,  and  Valeri, L. (2023). Accounting for effect modification by latent disease state for individual causal effect estimation among bipolar participants in mobile health studies. 
+**Fowler, C.**, Cai, X., Baker J.T., Ongur, D., Onnela, J.P.,  and  Valeri, L. (2024). Accounting for effect modification by latent disease state for individual causal effect estimation among bipolar participants in mobile health studies. 
 
 
-Kimhy, D., **Fowler, C.R.**, Valeri, L., Rogers, R.S., Xu, X., Buchsbaum, R., Stefancic, A., Cabassa, L.J., Nossell, I., and Stroup T.S. (2023) First Episode Psychosis Digital Monitoring: Feasibility, Compliance, and Response Variability.
+Kimhy, D., **Fowler, C.R.**, Valeri, L., Rogers, R.S., Xu, X., Buchsbaum, R., Stefancic, A., Cabassa, L.J., Nossell, I., and Stroup T.S. (2024) First Episode Psychosis Digital Monitoring: Feasibility, Compliance, and Response Variability.
 
 
-Kimhy, D., **Fowler, C.R.**, Valeri, L., Rogers, R.S., Xu, X., Buchsbaum, R., Stefancic, A., Cabassa, L.J., Nossell, I., and Stroup T.S. (2023) Real-Time Medication Side Effects in Individuals with First Episode Psychosis: Daily Course, Variance, Impact on Functioning, and Comparison to Retrospective Ratings.
+Kimhy, D., **Fowler, C.R.**, Valeri, L., Rogers, R.S., Xu, X., Buchsbaum, R., Stefancic, A., Cabassa, L.J., Nossell, I., and Stroup T.S. (2024) Real-Time Medication Side Effects in Individuals with First Episode Psychosis: Daily Course, Variance, Impact on Functioning, and Comparison to Retrospective Ratings.
 
 
