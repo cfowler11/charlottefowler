@@ -15,18 +15,19 @@ Rogers, R. T., Rogers, R., DeSilva, N., **Fowler, C. R.**, Marino, L. (2023). Pr
 Mosinger, E., Thaler, K., Paz Garcia, D., 
 **Fowler, C.** (2022). Civil Resistance in the Shadow of the Revolution: Historical Framing in Nicaragua’s Sudden Uprising. *Comparative Politics, 54.1*. [https://doi.org/10.5129/001041522X16281740895086](https://doi.org/10.5129/001041522X16281740895086) 
 
-
 **Fowler, C.**, Homandberg, L., Steele, C., Bolt, M.A., Tintle, N., Ulrich, R., Christians, M. (2020). Adult correlates of adverse childhood experiences in Ukraine. *Child Abuse \& Neglect, 107*. [https://doi.org/10.1016/j.chiabu.2020.104617](https://doi.org/10.1016/j.chiabu.2020.104617) 
 
+### Manuscripts under Review
 
+Cai, X., Zeng, L., **Fowler, C.**, Dixon, L., Ongur, D., Baker, J.T., Onnela, J.P. and Valeri, L. (2024). Causal estimands and identification of time-varying effects in non-stationary time series from N-of-1 mobile device data.  [https://arxiv.org/abs/2407.17666](https://arxiv.org/abs/2407.17666)
 
 ### Manuscripts in Preparation
 
-**Fowler, C.**, Cai, X., Baker J.T., Ongur, D., Onnela, J.P.,  and  Valeri, L. (2024). Accounting for effect modification by latent disease state for individual causal effect estimation among bipolar participants in mobile health studies. 
+**Fowler, C.R.**, Cai, X., Rahimi-Eichi, H., Baker J.T., Ongur, D., Onnela, J.P.,  and  Valeri, L. (2024). Accounting for effect modification by latent disease state for individual causal effect estimation among bipolar participants in mobile health studies. 
 
+**Fowler, C.R.**, Rahimi-Eichi, H., Cai, X., Baker J.T., Onnela, J.P.,  Goldsmith, J., and  Valeri, L. (2024). Functional data analysis approach for individual causal mediation analysis in N-of-1 mobile health studies.  
 
 Kimhy, D., **Fowler, C.R.**, Valeri, L., Rogers, R.S., Xu, X., Buchsbaum, R., Stefancic, A., Cabassa, L.J., Nossell, I., and Stroup T.S. (2024) First Episode Psychosis Digital Monitoring: Feasibility, Compliance, and Response Variability.
-
 
 Kimhy, D., **Fowler, C.R.**, Valeri, L., Rogers, R.S., Xu, X., Buchsbaum, R., Stefancic, A., Cabassa, L.J., Nossell, I., and Stroup T.S. (2024) Real-Time Medication Side Effects in Individuals with First Episode Psychosis: Daily Course, Variance, Impact on Functioning, and Comparison to Retrospective Ratings.
 

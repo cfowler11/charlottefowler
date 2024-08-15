@@ -10,7 +10,7 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - icon: fa-envelope fa-lg
-      href: mailto:<crf2147@cumc.columbia.edu>
+      href: mailto:<cfowler@wpi.edu>
     - icon: fab fa-twitter fa-lg
       href: https://twitter.com/CharlyFowler
     - icon: fab fa-linkedin fa-lg

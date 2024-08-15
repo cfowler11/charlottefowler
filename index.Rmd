@@ -15,13 +15,13 @@ knitr::include_graphics("cf_headshot.png")
 ### Charlotte (Charly) Fowler 
 
 \singlespacing
-Doctoral Candidate 
+Assistant Professor 
 
-Department of Biostatistics 
+Department of Mathematical Sciences 
 
-Columbia University 
+Worcester Polytechnic Institute
 
-New York, NY
+Worcester, MA
 
 
 
@@ -32,7 +32,9 @@ New York, NY
 
 <font size = "4">
 
-I am a doctoral candidate in Biostatistics at Columbia University Mailman School of Public Health. I am completing my  dissertation titled Causal inference and time series methods for N-of-1 mobile health studies with missing data, under [Linda Valeri](https://www.lindavaleri.com/). Here is my [CV](docs_to_link/cfowler_cv.pdf).
+I am an Assistant Professor of Mathematical Sciences at Worcester Polytechnic Institute. I'm interested in causal inference methods for complex health data, addressing health disparities, and increasing accessibility and diversity in the field of statistics.
+
+I completed my B.A. in Applied Mathematics and Statistics at Macalester College and PhD in Biostatistics at Columbia University Mailman School of Public Health. My  dissertation, advised by [Linda Valeri](https://www.lindavaleri.com/), focused on causal inference and time series methods for N-of-1 mobile health studies with missing data. Here is my [CV](docs_to_link/cfowler_cv.pdf).
 
 </font>
 
@@ -40,7 +42,7 @@ I am a doctoral candidate in Biostatistics at Columbia University Mailman School
 
 <font size = "4"> 
 
-PhD in Biostatistics, Columbia University  (expected Spring 2024)
+PhD in Biostatistics, Columbia University, 2024
 
 MPhil in Biostatistics, Columbia University, 2022
 
