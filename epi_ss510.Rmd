@@ -1,0 +1,16 @@
+---
+title: "SS 510:  Principles of Epidemiology "
+---
+
+**3 credits**
+
+**Course Description:** Epidemiology studies the historical pattern of disease in populations to describe and identify distributions of diseases and opportunities for intervention. This course serves as a cornerstone for the quantitative aspects of global health and focuses quantitatively on the distribution and determinants of health in human populations and communities. The goal is to provide a scientific and engineering foundation that seeks for evaluating both to reduce risk factors and interventions and to improve health in a population through a strong quantitative analysis of causation, problem-solving, and analytic reasoning. The study of epidemiology evaluates the multifactorial etiology and pathophysiology of chronic and infectiousc diseases and applies criteria for identification, prevention and control of infectious agents. The discipline also contributes to public health practice and policy and is designed to introduce students to the principles and methods of health investigations. Specific topics include biomedical study design (experiment, cohort, case-control, cross sectional, ecological), appropriate measures of disease burden and association (prevalence, cumulative incidence, rate ratio, odds ratio), and considerations for efficacy and precision (selection bias, confounding, effect modification, measurement error, and random variation). The course also provides a framework for understanding and evaluating biomedical research publications, causal inference, and rudimentary infectious disease modeling.
+
+
+Kaven Hall 115
+
+Spring Semester
+
+Wednesdays | 5:30 PM - 8:20 PM
+
+Interested or have any questions? Please contact cfowler@wpi.edu
