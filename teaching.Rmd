@@ -6,6 +6,18 @@ title: "Teaching"
 
 <br>
 
+### Worcester Polytechnic Institute Teaching
+
+Applied Statistics I (MA 2611), Fall 2024 B term, Spring 2025 D term, and Fall 2025 A term
+
+Principles of Epidemiology (MA 544/SS 510), Spring 2025
+
+
+<br>
+
+
+### Columbia University Teaching
+
 I served as instructor for the Introduction to Biostatistics course in the summers of 2022 and 2023 for the [Biostatistics Epidemiology Summer Training](https://www.publichealth.columbia.edu/research/programs/biostatistics-epidemiology-summer-training). This summer program offers exposure and training in biostatistics, coding, and epidemiology for 13-15 undergraduates from under-represented backgrounds. In this role I designed and developed the course materials and [syllabus](docs_to_link/syllabus.pdf), delivered lectures, managed teaching assistants, and mentored students. The introductory course covered methods for
 describing discrete and continuous data, hypothesis testing, confidence intervals, general
 principles of study design, and regression models. 

@@ -11,8 +11,6 @@ navbar:
       href: teaching.html
     - icon: fa-envelope fa-lg
       href: mailto:<cfowler@wpi.edu>
-    - icon: fab fa-twitter fa-lg
-      href: https://twitter.com/CharlyFowler
     - icon: fab fa-linkedin fa-lg
       href: https://www.linkedin.com/in/charlotte-fowler/
 output:

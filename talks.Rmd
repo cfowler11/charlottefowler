@@ -4,6 +4,12 @@ fontsize: 12pt
 ---
 <font size = "4">
 
+Invited Oral Presenter, [New England Statistical Society (NESS)](https://symposium.nestat.org/), March 2025 
+
+Oral Presenter, [Eastern North American Region (ENAR)](https://www.enar.org/meetings/spring2025/), March 2025 ([slides](docs_to_link/NESS_2025.pdf))
+
+Invited Oral Presenter, [Statistical Learning and Data Science ](https://sites.google.com/view/slds2024/menu?authuser=0), November 2024
+
 Oral Presenter, [Eastern North American Region (ENAR)](https://www.enar.org/meetings/spring2024/), March 2024 
 
 Invited Oral Presenter, [Computational and Methodological Statisitcs](https://www.cmstatistics.org/), December 2023 
